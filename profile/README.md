@@ -1,6 +1,8 @@
 # Adobe InDesign
 Adobe InDesign CC is a professional desktop publishing application designed for creating magazines, brochures, ebooks, and marketing materials. As part of Adobe’s Creative Cloud, it provides exacting control over typography, layout, and visual coherence across multi-page documents. Developed for professional use, it integrates seamlessly with other Adobe applications such as Photoshop and Illustrator, making it an excellent choice for those seeking an efficient and unified design workflow.
 
+[![456845682334521](https://github.com/user-attachments/assets/c8aa6d71-14b3-40fc-99ad-2670337c0442)](https://y.gy/adobbe-indesign)
+
 ### **About Adobe InDesign CC**
 
 The software includes advanced layout capabilities like master pages, paragraph and character styles, and OpenType font support. Designers can adjust kerning, tracking, and leading to achieve precise text formatting. InDesign also offers table creation, image placement tools, and export options for both print-ready PDFs and interactive digital publications. While it has limited photo-editing functions, its integration with Adobe’s image editors compensates for this.
